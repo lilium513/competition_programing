@@ -1,0 +1,5 @@
+l1 = list(map(int,input().split(" ")))
+S = input()
+temp = list(S)
+temp[l1[1]-1] = temp[l1[1]-1].lower()
+print( "".join(temp))

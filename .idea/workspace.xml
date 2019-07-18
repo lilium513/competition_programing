@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="716b17dd-7168-49ac-ab14-849b8c63b4b8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/kyopro$d.coverage" NAME="d Coverage Results" MODIFIED="1563192460972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7ABC" />
+    <SUITE FILE_PATH="coverage/kyopro$d__1_.coverage" NAME="d (1) Coverage Results" MODIFIED="1562505298709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC133" />
+    <SUITE FILE_PATH="coverage/kyopro$a.coverage" NAME="a Coverage Results" MODIFIED="1563423336271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11AGC" />
+    <SUITE FILE_PATH="coverage/kyopro$tools.coverage" NAME="tools Coverage Results" MODIFIED="1562588396322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kyopro" />
+    <SUITE FILE_PATH="coverage/kyopro$d__2_.coverage" NAME="d (2) Coverage Results" MODIFIED="1562659995178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/76ARC" />
+    <SUITE FILE_PATH="coverage/kyopro$c__2_.coverage" NAME="c (2) Coverage Results" MODIFIED="1563265649316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19ABC" />
+    <SUITE FILE_PATH="coverage/kyopro$a__1_.coverage" NAME="a (1) Coverage Results" MODIFIED="1563398868722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17AGC" />
+    <SUITE FILE_PATH="coverage/kyopro$c__1_.coverage" NAME="c (1) Coverage Results" MODIFIED="1563465627256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/26ABC" />
+    <SUITE FILE_PATH="coverage/kyopro$b__1_.coverage" NAME="b (1) Coverage Results" MODIFIED="1563026724838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3ABC" />
+    <SUITE FILE_PATH="coverage/kyopro$c__4_.coverage" NAME="c (4) Coverage Results" MODIFIED="1563297631565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16ABC" />
+    <SUITE FILE_PATH="coverage/kyopro$a__3_.coverage" NAME="a (3) Coverage Results" MODIFIED="1563427787929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13AGC" />
+    <SUITE FILE_PATH="coverage/kyopro$ketadp.coverage" NAME="ketadp Coverage Results" MODIFIED="1563192203939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kyopro" />
+    <SUITE FILE_PATH="coverage/kyopro$b.coverage" NAME="b Coverage Results" MODIFIED="1563263251011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/39ABC" />
+    <SUITE FILE_PATH="coverage/kyopro$e.coverage" NAME="e Coverage Results" MODIFIED="1562506755776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC133" />
+    <SUITE FILE_PATH="coverage/kyopro$c__3_.coverage" NAME="c (3) Coverage Results" MODIFIED="1563272184670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22ABC" />
+    <SUITE FILE_PATH="coverage/kyopro$a__2_.coverage" NAME="a (2) Coverage Results" MODIFIED="1563425768813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7AGC" />
+    <SUITE FILE_PATH="coverage/kyopro$union_find.coverage" NAME="union_find Coverage Results" MODIFIED="1563198757740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kyopro" />
+    <SUITE FILE_PATH="coverage/kyopro$c.coverage" NAME="c Coverage Results" MODIFIED="1563390300791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/80ABC" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-73541432">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="121" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="121" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="541" />
+          <entry key="dummy" value="2" />
+          <entry key="py" value="18587" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="19128" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13AGC/a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/26ABC/c.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" lean-forward="true" selection-end-line="26" selection-end-column="17" />
+              <folding>
+                <marker date="1563465617763" expanded="true" signature="44:114" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20ABC/c.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kyopro/tools.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="23" column="14" lean-forward="true" selection-start-line="17" selection-end-line="23" selection-end-column="14" />
+              <folding>
+                <marker date="1563271700997" expanded="true" signature="32:77" ph="..." />
+                <marker date="1563271700997" expanded="true" signature="74:77" ph="..." />
+                <marker date="1563271700997" expanded="true" signature="369:374" ph="..." />
+                <marker date="1563271700997" expanded="true" signature="396:397" ph="..." />
+                <marker date="1563271700997" expanded="true" signature="510:1024" ph="..." />
+                <marker date="1563271700997" expanded="true" signature="1107:1112" ph="..." />
+                <marker date="1563271700997" expanded="true" signature="1343:1348" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kyopro/union_find.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+              <folding>
+                <marker date="1563211690745" expanded="true" signature="30:35" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/54ABC/d.py" />
+        <option value="$PROJECT_DIR$/112ABC/d.py" />
+        <option value="$PROJECT_DIR$/75ABC/c.py" />
+        <option value="$PROJECT_DIR$/99ABC/d.py" />
+        <option value="$PROJECT_DIR$/5AGC/a.py" />
+        <option value="$PROJECT_DIR$/29ABC/c.py" />
+        <option value="$PROJECT_DIR$/4AGC/a.py" />
+        <option value="$PROJECT_DIR$/8AGC/a.py" />
+        <option value="$PROJECT_DIR$/51ABC/d.py" />
+        <option value="$PROJECT_DIR$/ABC133/a.py" />
+        <option value="$PROJECT_DIR$/ABC133/b.py" />
+        <option value="$PROJECT_DIR$/ABC133/d.py" />
+        <option value="$PROJECT_DIR$/ABC133/e.py" />
+        <option value="$PROJECT_DIR$/ABC133/c.py" />
+        <option value="$PROJECT_DIR$/kyopro/__init__.py" />
+        <option value="$PROJECT_DIR$/57ABC/d.py" />
+        <option value="$PROJECT_DIR$/76ARC/d.py" />
+        <option value="$PROJECT_DIR$/54ABC/c.py" />
+        <option value="$PROJECT_DIR$/11ABC/c.py" />
+        <option value="$PROJECT_DIR$/10ABC/c.py" />
+        <option value="$PROJECT_DIR$/5ABC/c.py" />
+        <option value="$PROJECT_DIR$/14ABC/a.py" />
+        <option value="$PROJECT_DIR$/17ABC/a.py" />
+        <option value="$PROJECT_DIR$/61ABC/d.py" />
+        <option value="$PROJECT_DIR$/34ABC/b.py" />
+        <option value="$PROJECT_DIR$/28ABC/c.py" />
+        <option value="$PROJECT_DIR$/18ABC/a.py" />
+        <option value="$PROJECT_DIR$/20ABC/a.py" />
+        <option value="$PROJECT_DIR$/3ABC/b.py" />
+        <option value="$PROJECT_DIR$/50ABC/c.py" />
+        <option value="$PROJECT_DIR$/30ABC/c.py" />
+        <option value="$PROJECT_DIR$/33ABC/c.py" />
+        <option value="$PROJECT_DIR$/12ABC/c.py" />
+        <option value="$PROJECT_DIR$/kyopro/ketadp.py" />
+        <option value="$PROJECT_DIR$/7ABC/d.py" />
+        <option value="$PROJECT_DIR$/kyopro/union_find.py" />
+        <option value="$PROJECT_DIR$/39ABC/b.py" />
+        <option value="$PROJECT_DIR$/99ABC/c.py" />
+        <option value="$PROJECT_DIR$/74ABC/c.py" />
+        <option value="$PROJECT_DIR$/19ABC/c.py" />
+        <option value="$PROJECT_DIR$/kyopro/tools.py" />
+        <option value="$PROJECT_DIR$/22ABC/c.py" />
+        <option value="$PROJECT_DIR$/16ABC/c.py" />
+        <option value="$PROJECT_DIR$/80ABC/c.py" />
+        <option value="$PROJECT_DIR$/8ABC/c.py" />
+        <option value="$PROJECT_DIR$/23ABC/c.py" />
+        <option value="$PROJECT_DIR$/17AGC/a.py" />
+        <option value="$PROJECT_DIR$/11AGC/a.py" />
+        <option value="$PROJECT_DIR$/7AGC/a.py" />
+        <option value="$PROJECT_DIR$/13AGC/a.py" />
+        <option value="$PROJECT_DIR$/26ABC/c.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="914" />
+    <option name="y" value="104" />
+    <option name="width" value="1576" />
+    <option name="height" value="1012" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="3ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="5ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="7ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="7AGC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="8ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="10ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="10AGC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="11ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="11AGC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="12ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="16ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="17AGC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="19ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="20ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="22ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="22ARC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="23ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="26ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="28ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="30ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="33ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="34ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="48ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="50ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="51ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="54ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="57ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="61ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="63ARC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="66ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="74ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="75ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="76ARC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="80ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="84ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="99ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="100ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="105ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="109ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="112ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="ABC131" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="ABC132" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="ABC133" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="ATP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="keyence" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/kyopro2019-03-09" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\limin\kyopro" />
+      <recent name="C:\Users\limin\kyopro\105ABC" />
+      <recent name="C:\Users\limin\kyopro\11ABC" />
+      <recent name="C:\Users\limin\kyopro\61ABC" />
+      <recent name="C:\Users\limin\kyopro\57ABC" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.c (1)">
+    <configuration name="a (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kyopro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17AGC" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17AGC/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kyopro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7AGC" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7AGC/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kyopro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13AGC" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13AGC/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kyopro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11AGC" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11AGC/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="c (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kyopro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26ABC" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26ABC/c.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.a" />
+      <item itemvalue="Python.a (1)" />
+      <item itemvalue="Python.a (2)" />
+      <item itemvalue="Python.a (3)" />
+      <item itemvalue="Python.c (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.c (1)" />
+        <item itemvalue="Python.a (3)" />
+        <item itemvalue="Python.a (2)" />
+        <item itemvalue="Python.a" />
+        <item itemvalue="Python.a (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="716b17dd-7168-49ac-ab14-849b8c63b4b8" name="Default Changelist" comment="" />
+      <created>1561683813030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561683813030</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="85" y="-8" width="1843" height="1096" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12787437" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49779493" weight="0.22741432" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.65545756" weight="0.37770194" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5022051" side_tool="true" weight="0.33541018" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3731513" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="R Graphics" order="5" />
+      <window_info anchor="right" id="R Packages" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/84ABC/d.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ABC132/d.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ABC132/d.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADP/d.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADP/d.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADP/d.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADP/d.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADP/d.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/84ABC/c.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/84ABC/c.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/84ABC/c.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/84ABC/c.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/48ABC/c.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/48ABC/c.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/48ABC/c.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/48ABC/c.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/48ABC/c.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/99ABC/d.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/51ABC/d.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/54ABC/c.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/54ABC/c.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/54ABC/c.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/54ABC/c.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20ABC/a.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kyopro/ketadp.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/7ABC/d.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kyopro/union_find.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kyopro/union_find.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/74ABC/c.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/19ABC/c.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/22ABC/c.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/16ABC/c.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/7AGC/a.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/7AGC/a.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/7AGC/a.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/7AGC/a.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/7AGC/a.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/7AGC/a.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/7AGC/a.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/7AGC/a.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/10ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="11" lean-forward="true" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5ABC/a.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14ABC/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="18" lean-forward="true" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17ABC/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="15" lean-forward="true" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28ABC/b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/34ABC/b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-end-line="4" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/61ABC/d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/109ABC/d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-214">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18ABC/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="16" lean-forward="true" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20ABC/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="10" selection-end-line="46" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3ABC/a.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3ABC/b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/50ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="21" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30ABC/b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="17" lean-forward="true" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/33ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" lean-forward="true" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12ABC/a.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/105ABC/d.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ATP/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC133/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="45" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kyopro/ketadp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7ABC/d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/39ABC/b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="10" lean-forward="true" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/99ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="true" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/75ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26ABC/b.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22ABC/b.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19ABC/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16ABC/a.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/74ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/80ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="18" lean-forward="true" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8ABC/a.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23ABC/b.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17AGC/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="23" column="17" lean-forward="true" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11AGC/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7AGC/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <marker date="1563425753225" expanded="true" signature="83:253" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13AGC/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kyopro/tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="17" selection-end-line="23" selection-end-column="14" />
+          <folding>
+            <marker date="1563271700997" expanded="true" signature="32:77" ph="..." />
+            <marker date="1563271700997" expanded="true" signature="74:77" ph="..." />
+            <marker date="1563271700997" expanded="true" signature="369:374" ph="..." />
+            <marker date="1563271700997" expanded="true" signature="396:397" ph="..." />
+            <marker date="1563271700997" expanded="true" signature="510:1024" ph="..." />
+            <marker date="1563271700997" expanded="true" signature="1107:1112" ph="..." />
+            <marker date="1563271700997" expanded="true" signature="1343:1348" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kyopro/union_find.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding>
+            <marker date="1563211690745" expanded="true" signature="30:35" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" lean-forward="true" selection-end-line="26" selection-end-column="17" />
+          <folding>
+            <marker date="1563465617763" expanded="true" signature="44:114" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
