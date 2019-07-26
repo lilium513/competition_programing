@@ -1,7 +1,6 @@
-import 
+
 N,K =list(map(int,input().split(" ")))
 As = list(map(int,input().split(" ")))
-import
 l = 0
 import math
 r = 0

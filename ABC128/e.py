@@ -1,34 +1,43 @@
-N,Q = list(map(int,input().split(" ")))
-kojis = []
-hitos = {}
+import bisect
+import heapq
+import sys
+N,Q = [int(x) for x in sys.stdin.readline().split()]
 
-ans = [-1] * Q
-
-for i in range(N):
-    S,T,X =list(map(int,input().split(" ")))
-    l = S -X
-    r = T -X
-    kojis.append((l,r,X))
-kojis.sort(key=lambda x:x[2])
+hitos = []
+ans = [-1 for _ in range(Q)]
+queries =[]
+jump = ans[::]
 
 
-for i in range(Q):
-    t = int(input())
-    hitos[t] = (t,i)
 
-for koji in kojis:
-    rem = []
-    l,r,x = koji
-    for i,hito in enumerate(hitos.values()):
-        hitoTime,hitoNum = hito
-        if l <= hitoTime and hitoTime < r:
-            ans[hitoNum] = x
-            rem.append(hitoTime)
-        elif r <= hitoTime:
-            break
+queries = [[int(x) for x in sys.stdin.readline().split()] for i in range(N)]
+hitos = [int(sys.stdin.readline()) for i in range(Q)]
 
-    for i in rem:
-        hitos.pop(i)
 
-for i in ans:
+# for i in range(N):
+    # S,T,X =list(map(int,input().split(" ")))
+    # lt = S -X -0.5
+    # rt = T -X -0.5
+    # queries.append([lt,rt,X]) #-1 → 挿入クエリ lが時間、-1がクエリの種類、Xが場所
+
+
+queries.sort(key=lambda x:x[2])
+
+
+
+
+
+for l,r,x in queries:
+     lind  = bisect.bisect_left(hitos,l-x - 0.5)
+     rind  = bisect.bisect_left(hitos,r -x - 0.5)
+     while lind < rind:
+         if ans[lind] == -1:
+            ans[lind] = x
+            jump[lind] = rind
+            lind += 1
+         else:
+
+             lind = jump[lind]
+
+for i  in ans:
     print(i)
