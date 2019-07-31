@@ -2,57 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="716b17dd-7168-49ac-ab14-849b8c63b4b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/101ABC/d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/117ABC/d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/119ABC/d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15ABC/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15ABC/b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15ABC/c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15ABC/d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31ABC/b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31ABC/c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36AGC/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36AGC/b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36AGC/c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36AGC/d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/57ARC/c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/57ARC/d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/60ARC/c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/60ARC/d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/67ARC/c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/67ARC/d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/69ARC/d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/73ABC/d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC121/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC121/b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC121/c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC121/d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC126/e.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC129/e.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC130/e.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC134/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC134/b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC134/c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC134/d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC134/e.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ARC71/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ARC71/b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ARC71/c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ARC71/d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ARC71/e.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATP/e.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATP/f.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/110ABC/d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18AGC/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33AGC/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33AGC/b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33AGC/c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33AGC/d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43ABC/d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/68ABC/d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/68ARC/c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/68ARC/d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/89ABC/d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC135/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC135/b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC135/c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC135/d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC135/e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeFlyer/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeFlyer/b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeFlyer/c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeFlyer/d.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/114ABC/d.py" beforeDir="false" afterPath="$PROJECT_DIR$/114ABC/d.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20ABC/a.py" beforeDir="false" afterPath="$PROJECT_DIR$/20ABC/a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/51ABC/d.py" beforeDir="false" afterPath="$PROJECT_DIR$/51ABC/d.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/57ABC/c.py" beforeDir="false" afterPath="$PROJECT_DIR$/57ABC/b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/61ABC/d.py" beforeDir="false" afterPath="$PROJECT_DIR$/61ABC/d.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABC128/e.py" beforeDir="false" afterPath="$PROJECT_DIR$/ABC128/e.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABC130/d.py" beforeDir="false" afterPath="$PROJECT_DIR$/ABC130/d.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ATP/a.py" beforeDir="false" afterPath="$PROJECT_DIR$/ATP/a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ATP/d.py" beforeDir="false" afterPath="$PROJECT_DIR$/ATP/d.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keyence/c.py" beforeDir="false" afterPath="$PROJECT_DIR$/keyence/c.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13AGC/a.py" beforeDir="false" afterPath="$PROJECT_DIR$/13AGC/a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/48ABC/b.py" beforeDir="false" afterPath="$PROJECT_DIR$/48ABC/b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/54ABC/d.py" beforeDir="false" afterPath="$PROJECT_DIR$/54ABC/d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/70ABC/d.py" beforeDir="false" afterPath="$PROJECT_DIR$/70ABC/d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC124/d.py" beforeDir="false" afterPath="$PROJECT_DIR$/ABC124/d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kyopro/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/kyopro/tools.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kyopro/union_find.py" beforeDir="false" afterPath="$PROJECT_DIR$/kyopro/union_find.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,103 +38,100 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/kyopro$d__1_.coverage" NAME="d (1) Coverage Results" MODIFIED="1564085470887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/114ABC" />
+    <SUITE FILE_PATH="coverage/kyopro$d__1_.coverage" NAME="d (1) Coverage Results" MODIFIED="1564581901052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/54ABC" />
     <SUITE FILE_PATH="coverage/kyopro$e__1_.coverage" NAME="e (1) Coverage Results" MODIFIED="1563969203824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC126" />
     <SUITE FILE_PATH="coverage/kyopro$tools.coverage" NAME="tools Coverage Results" MODIFIED="1562588396322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kyopro" />
     <SUITE FILE_PATH="coverage/kyopro$f.coverage" NAME="f Coverage Results" MODIFIED="1563879758497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ATP" />
-    <SUITE FILE_PATH="coverage/kyopro$a__1_.coverage" NAME="a (1) Coverage Results" MODIFIED="1563398868722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17AGC" />
-    <SUITE FILE_PATH="coverage/kyopro$c__1_.coverage" NAME="c (1) Coverage Results" MODIFIED="1563465627256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/26ABC" />
-    <SUITE FILE_PATH="coverage/kyopro$d__3_.coverage" NAME="d (3) Coverage Results" MODIFIED="1564042538459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/61ABC" />
+    <SUITE FILE_PATH="coverage/kyopro$a__1_.coverage" NAME="a (1) Coverage Results" MODIFIED="1564313038932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18AGC" />
+    <SUITE FILE_PATH="coverage/kyopro$d__3_.coverage" NAME="d (3) Coverage Results" MODIFIED="1564167602337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/89ABC" />
+    <SUITE FILE_PATH="coverage/kyopro$c__1_.coverage" NAME="c (1) Coverage Results" MODIFIED="1564230001258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC135" />
     <SUITE FILE_PATH="coverage/kyopro$b__1_.coverage" NAME="b (1) Coverage Results" MODIFIED="1563026724838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3ABC" />
     <SUITE FILE_PATH="coverage/kyopro$e__3_.coverage" NAME="e (3) Coverage Results" MODIFIED="1563876245497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ATP" />
     <SUITE FILE_PATH="coverage/kyopro$a__3_.coverage" NAME="a (3) Coverage Results" MODIFIED="1563427787929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13AGC" />
     <SUITE FILE_PATH="coverage/kyopro$ketadp.coverage" NAME="ketadp Coverage Results" MODIFIED="1563192203939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kyopro" />
     <SUITE FILE_PATH="coverage/kyopro$e.coverage" NAME="e Coverage Results" MODIFIED="1563945519566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC130" />
     <SUITE FILE_PATH="coverage/kyopro$c__3_.coverage" NAME="c (3) Coverage Results" MODIFIED="1563529354910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/keyence" />
-    <SUITE FILE_PATH="coverage/kyopro$c.coverage" NAME="c Coverage Results" MODIFIED="1564044845670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/67ARC" />
-    <SUITE FILE_PATH="coverage/kyopro$d.coverage" NAME="d Coverage Results" MODIFIED="1564048333953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/60ARC" />
-    <SUITE FILE_PATH="coverage/kyopro$a.coverage" NAME="a Coverage Results" MODIFIED="1563872285973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ATP" />
+    <SUITE FILE_PATH="coverage/kyopro$c.coverage" NAME="c Coverage Results" MODIFIED="1564192174613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codeFlyer" />
+    <SUITE FILE_PATH="coverage/kyopro$d__5_.coverage" NAME="d (5) Coverage Results" MODIFIED="1564181224757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/43ABC" />
+    <SUITE FILE_PATH="coverage/kyopro$d.coverage" NAME="d Coverage Results" MODIFIED="1564475767523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/68ARC" />
+    <SUITE FILE_PATH="coverage/kyopro$a.coverage" NAME="a Coverage Results" MODIFIED="1564388137596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13AGC" />
     <SUITE FILE_PATH="coverage/kyopro$c__2_.coverage" NAME="c (2) Coverage Results" MODIFIED="1563527320022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/31ABC" />
-    <SUITE FILE_PATH="coverage/kyopro$d__2_.coverage" NAME="d (2) Coverage Results" MODIFIED="1564031677111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/69ARC" />
+    <SUITE FILE_PATH="coverage/kyopro$d__2_.coverage" NAME="d (2) Coverage Results" MODIFIED="1564596852842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/110ABC" />
     <SUITE FILE_PATH="coverage/kyopro$e__2_.coverage" NAME="e (2) Coverage Results" MODIFIED="1563854331786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC129" />
     <SUITE FILE_PATH="coverage/kyopro$c__4_.coverage" NAME="c (4) Coverage Results" MODIFIED="1563297631565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16ABC" />
     <SUITE FILE_PATH="coverage/kyopro$d__4_.coverage" NAME="d (4) Coverage Results" MODIFIED="1564058781202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/73ABC" />
     <SUITE FILE_PATH="coverage/kyopro$a__4_.coverage" NAME="a (4) Coverage Results" MODIFIED="1563470632751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20ABC" />
-    <SUITE FILE_PATH="coverage/kyopro$b.coverage" NAME="b Coverage Results" MODIFIED="1563624189148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC134" />
+    <SUITE FILE_PATH="coverage/kyopro$b.coverage" NAME="b Coverage Results" MODIFIED="1564388209958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/48ABC" />
     <SUITE FILE_PATH="coverage/kyopro$a__2_.coverage" NAME="a (2) Coverage Results" MODIFIED="1563425768813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7AGC" />
-    <SUITE FILE_PATH="coverage/kyopro$union_find.coverage" NAME="union_find Coverage Results" MODIFIED="1563198757740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kyopro" />
+    <SUITE FILE_PATH="coverage/kyopro$union_find.coverage" NAME="union_find Coverage Results" MODIFIED="1564473651105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kyopro" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-73541432">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="180" />
+          <entry key="py" value="209" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="180" />
+          <entry key="Python" value="209" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="919" />
+          <entry key="Python Console" value="1001" />
           <entry key="dummy" value="4" />
-          <entry key="py" value="28807" />
+          <entry key="py" value="34270" />
+          <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="29726" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Python" value="35271" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/73ABC/d.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="47" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="47" />
-              <folding>
-                <marker date="1564058792808" expanded="true" signature="259:641" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/114ABC/d.py">
+        <entry file="file://$PROJECT_DIR$/110ABC/d.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="544">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/74ABC/b.py">
+        <entry file="file://$PROJECT_DIR$/kyopro/tools.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="39" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="39" />
+            <state relative-caret-position="272">
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
               <folding>
-                <element signature="e#0#16#0" expanded="true" />
+                <marker date="1564595632264" expanded="true" signature="32:381" ph="..." />
+                <marker date="1564595632264" expanded="true" signature="74:381" ph="..." />
+                <marker date="1564595632264" expanded="true" signature="798:803" ph="..." />
+                <marker date="1564595632264" expanded="true" signature="825:826" ph="..." />
+                <marker date="1564595632264" expanded="true" signature="939:1453" ph="..." />
+                <marker date="1564595632264" expanded="true" signature="1536:1541" ph="..." />
+                <marker date="1564595632264" expanded="true" signature="1772:1777" ph="..." />
               </folding>
             </state>
           </provider>
@@ -179,23 +152,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/12ABC/c.py" />
-        <option value="$PROJECT_DIR$/kyopro/ketadp.py" />
-        <option value="$PROJECT_DIR$/7ABC/d.py" />
-        <option value="$PROJECT_DIR$/39ABC/b.py" />
-        <option value="$PROJECT_DIR$/99ABC/c.py" />
-        <option value="$PROJECT_DIR$/74ABC/c.py" />
-        <option value="$PROJECT_DIR$/19ABC/c.py" />
-        <option value="$PROJECT_DIR$/kyopro/tools.py" />
-        <option value="$PROJECT_DIR$/22ABC/c.py" />
-        <option value="$PROJECT_DIR$/16ABC/c.py" />
-        <option value="$PROJECT_DIR$/80ABC/c.py" />
-        <option value="$PROJECT_DIR$/8ABC/c.py" />
-        <option value="$PROJECT_DIR$/23ABC/c.py" />
-        <option value="$PROJECT_DIR$/17AGC/a.py" />
-        <option value="$PROJECT_DIR$/11AGC/a.py" />
         <option value="$PROJECT_DIR$/7AGC/a.py" />
-        <option value="$PROJECT_DIR$/13AGC/a.py" />
         <option value="$PROJECT_DIR$/26ABC/c.py" />
         <option value="$PROJECT_DIR$/20ABC/a.py" />
         <option value="$PROJECT_DIR$/15ABC/c.py" />
@@ -221,7 +178,6 @@
         <option value="$PROJECT_DIR$/ABC130/e.py" />
         <option value="$PROJECT_DIR$/ARC71/d.py" />
         <option value="$PROJECT_DIR$/ABC126/e.py" />
-        <option value="$PROJECT_DIR$/kyopro/union_find.py" />
         <option value="$PROJECT_DIR$/ABC121/d.py" />
         <option value="$PROJECT_DIR$/69ARC/d.py" />
         <option value="$PROJECT_DIR$/61ABC/d.py" />
@@ -230,6 +186,23 @@
         <option value="$PROJECT_DIR$/60ARC/d.py" />
         <option value="$PROJECT_DIR$/73ABC/d.py" />
         <option value="$PROJECT_DIR$/114ABC/d.py" />
+        <option value="$PROJECT_DIR$/70ABC/d.py" />
+        <option value="$PROJECT_DIR$/89ABC/d.py" />
+        <option value="$PROJECT_DIR$/43ABC/d.py" />
+        <option value="$PROJECT_DIR$/codeFlyer/c.py" />
+        <option value="$PROJECT_DIR$/ABC135/b.py" />
+        <option value="$PROJECT_DIR$/ABC135/c.py" />
+        <option value="$PROJECT_DIR$/ABC135/d.py" />
+        <option value="$PROJECT_DIR$/ABC124/d.py" />
+        <option value="$PROJECT_DIR$/68ABC/d.py" />
+        <option value="$PROJECT_DIR$/18AGC/a.py" />
+        <option value="$PROJECT_DIR$/13AGC/a.py" />
+        <option value="$PROJECT_DIR$/48ABC/b.py" />
+        <option value="$PROJECT_DIR$/kyopro/union_find.py" />
+        <option value="$PROJECT_DIR$/68ARC/d.py" />
+        <option value="$PROJECT_DIR$/54ABC/d.py" />
+        <option value="$PROJECT_DIR$/kyopro/tools.py" />
+        <option value="$PROJECT_DIR$/110ABC/d.py" />
       </list>
     </option>
   </component>
@@ -240,10 +213,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="493" />
-    <option name="y" value="93" />
+    <option name="x" value="191" />
+    <option name="y" value="85" />
     <option name="width" value="1831" />
-    <option name="height" value="1074" />
+    <option name="height" value="948" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -251,6 +224,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -316,6 +290,11 @@
             <path>
               <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
               <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="13AGC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
               <item name="15ABC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -371,6 +350,11 @@
             <path>
               <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
               <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="32AGC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
               <item name="33ABC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -382,6 +366,11 @@
               <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
               <item name="kyopro" type="462c0819:PsiDirectoryNode" />
               <item name="36AGC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="43ABC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
@@ -431,7 +420,22 @@
             <path>
               <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
               <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="68ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="68ARC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
               <item name="69ARC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="70ABC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
@@ -466,6 +470,11 @@
             <path>
               <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
               <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="89ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
               <item name="99ABC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -491,6 +500,11 @@
             <path>
               <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
               <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="110ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
               <item name="112ABC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -512,6 +526,11 @@
               <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
               <item name="kyopro" type="462c0819:PsiDirectoryNode" />
               <item name="ABC121" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="ABC124" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
@@ -551,7 +570,7 @@
             <path>
               <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
               <item name="kyopro" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC134" type="462c0819:PsiDirectoryNode" />
+              <item name="ABC135" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
@@ -571,6 +590,11 @@
             <path>
               <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
               <item name="kyopro" type="462c0819:PsiDirectoryNode" />
+              <item name="codeFlyer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kyopro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kyopro" type="462c0819:PsiDirectoryNode" />
               <item name="keyence" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -582,10 +606,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="dfs&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/kyopro2019-03-09" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -594,11 +618,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\limin\kyopro\73ABC" />
+      <recent name="C:\Users\limin\kyopro\110ABC" />
+      <recent name="C:\Users\limin\kyopro\68ARC" />
       <recent name="C:\Users\limin\kyopro" />
-      <recent name="C:\Users\limin\kyopro\ABC126" />
-      <recent name="C:\Users\limin\kyopro\ABC130" />
-      <recent name="C:\Users\limin\kyopro\ATP" />
+      <recent name="C:\Users\limin\kyopro\68ABC" />
+      <recent name="C:\Users\limin\kyopro\43ABC" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -613,8 +637,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.d (1)">
-    <configuration name="c" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.d (2)">
+    <configuration name="b" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kyopro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -622,12 +646,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/67ARC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/48ABC" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/67ARC/c.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/48ABC/b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -644,12 +668,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/114ABC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/54ABC" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/114ABC/d.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/54ABC/d.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -658,7 +682,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="d (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="d (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kyopro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -666,34 +690,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/61ABC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/110ABC" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/61ABC/d.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="d (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="kyopro" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/73ABC" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/73ABC/d.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/110ABC/d.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -710,12 +712,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/60ARC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/68ARC" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/60ARC/d.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/68ARC/d.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="union_find" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kyopro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kyopro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kyopro/union_find.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -725,19 +749,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.d (3)" />
-      <item itemvalue="Python.c" />
+      <item itemvalue="Python.b" />
+      <item itemvalue="Python.union_find" />
       <item itemvalue="Python.d" />
-      <item itemvalue="Python.d (4)" />
       <item itemvalue="Python.d (1)" />
+      <item itemvalue="Python.d (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.d (2)" />
         <item itemvalue="Python.d (1)" />
-        <item itemvalue="Python.d (4)" />
         <item itemvalue="Python.d" />
-        <item itemvalue="Python.c" />
-        <item itemvalue="Python.d (3)" />
+        <item itemvalue="Python.union_find" />
+        <item itemvalue="Python.b" />
       </list>
     </recent_temporary>
   </component>
@@ -752,19 +776,27 @@
       <option name="presentableId" value="Default" />
       <updated>1561683813030</updated>
     </task>
+    <task id="LOCAL-00001" summary="問題を解いた">
+      <created>1564163262706</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564163262706</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="631" y="151" width="1831" height="1074" extended-state="0" />
+    <frame x="95" y="-8" width="1833" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12874082" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16525663" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49779493" visible="true" weight="0.35281616" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.65545756" weight="0.4473964" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49779493" visible="true" weight="0.29595014" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.65545756" weight="0.3759086" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -773,7 +805,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5022051" side_tool="true" weight="0.33541018" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32822758" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.37279335" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.37055215" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -789,6 +821,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="問題を解いた" />
+    <option name="LAST_COMMIT_MESSAGE" value="問題を解いた" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -917,16 +953,6 @@
           <url>file://$PROJECT_DIR$/7ABC/d.py</url>
           <line>23</line>
           <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/kyopro/union_find.py</url>
-          <line>63</line>
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/kyopro/union_find.py</url>
-          <line>65</line>
-          <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/74ABC/c.py</url>
@@ -1078,168 +1104,42 @@
           <line>52</line>
           <option name="timeStamp" value="150" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/18AGC/a.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/33AGC/a.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/54ABC/d.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/110ABC/d.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/20ABC/d.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20ABC/b.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20ABC/a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" column="8" lean-forward="true" selection-end-line="39" />
-          <folding>
-            <marker date="1563470933513" expanded="true" signature="211:455" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15ABC/c.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-          <folding>
-            <marker date="1563474358396" expanded="true" signature="49:243" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/31ABC/b.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/31ABC/c.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="18" selection-end-line="25" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyence/c.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="13" lean-forward="true" selection-end-line="27" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/57ARC/c.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/57ABC/b.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/101ABC/d.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="9" lean-forward="true" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/101ABC/c.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/119ABC/d.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="12" lean-forward="true" selection-end-line="30" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15ABC/a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/117ABC/d.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC134/a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="15" lean-forward="true" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC134/b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC134/c.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC134/d.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="15" column="4" selection-start-line="15" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/36AGC/a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="8" selection-start-line="3" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC134/e.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC128/e.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="39" column="30" selection-end-line="43" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ATP/b.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/1ATC/a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ATP/a.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1272,9 +1172,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1319,16 +1216,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kyopro/union_find.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="e#11#13#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ABC126/e.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -1338,22 +1225,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ABC121/a.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kyopro/tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-335">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <marker date="1563271700997" expanded="true" signature="32:77" ph="..." />
-            <marker date="1563271700997" expanded="true" signature="74:77" ph="..." />
-            <marker date="1563271700997" expanded="true" signature="369:374" ph="..." />
-            <marker date="1563271700997" expanded="true" signature="396:397" ph="..." />
-            <marker date="1563271700997" expanded="true" signature="510:1024" ph="..." />
-            <marker date="1563271700997" expanded="true" signature="1107:1112" ph="..." />
-            <marker date="1563271700997" expanded="true" signature="1343:1348" ph="..." />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ABC121/c.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1387,19 +1258,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" lean-forward="true" selection-end-line="13" />
-          <folding>
-            <marker date="1563976357949" expanded="true" signature="9:173" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC126/d.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="28" column="52" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1420,33 +1278,198 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/74ABC/b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/73ABC/d.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="47" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="47" />
-          <folding>
-            <marker date="1564058792808" expanded="true" signature="259:641" ph="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/70ABC/d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/114ABC/d.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
+        <state relative-caret-position="414">
           <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/74ABC/b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC126/d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/89ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/89ABC/d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/43ABC/d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeFlyer/a.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeFlyer/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC135/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC135/b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC135/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC135/d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC124/d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/68ARC/c.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/68ABC/d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18AGC/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="4" selection-end-line="33" selection-end-column="10" />
+          <folding>
+            <marker date="1564313048051" expanded="true" signature="233:562" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/33AGC/a.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13AGC/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/48ABC/b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kyopro/union_find.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/68ARC/d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="16" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/54ABC/d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/109ABC/d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/110ABC/c.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kyopro/tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <marker date="1564595632264" expanded="true" signature="32:381" ph="..." />
+            <marker date="1564595632264" expanded="true" signature="74:381" ph="..." />
+            <marker date="1564595632264" expanded="true" signature="798:803" ph="..." />
+            <marker date="1564595632264" expanded="true" signature="825:826" ph="..." />
+            <marker date="1564595632264" expanded="true" signature="939:1453" ph="..." />
+            <marker date="1564595632264" expanded="true" signature="1536:1541" ph="..." />
+            <marker date="1564595632264" expanded="true" signature="1772:1777" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/110ABC/d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>

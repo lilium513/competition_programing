@@ -1,4 +1,5 @@
 import sys
+import collections
 #
 # class UnionFind():
 #     def __init__(self,n):
@@ -53,21 +54,27 @@ class UnionFind:
 
 
 def do():
-    sys.setrecursionlimit(100000000000000)
+    sys.setrecursionlimit(100000000)
 
-    N,Q = list(map(int, input().split(" ")))
-    querys = [list(map(int, input().split(" "))) for i in range(Q)]
-    uf = UnionFind(N + 1)
-    for query in querys:
-        q,a,b= query
-        if q == 0:
-            uf.union(a,b)
-        else:
-            if uf.same_check(a,b):
-                print("Yes")
-            else:
-                print("No")
+    N,K,L = list(map(int, input().split(" ")))
+    querys1 = [list(map(int, input().split(" "))) for i in range(K)]
+    querys2 = [list(map(int, input().split(" "))) for i in range(L)]
+    uf1 = UnionFind(N + 1)
+    uf2 = UnionFind(N + 1)
+    for query in querys1:
+        a,b= query
+        uf1.merge(a,b)
+    for query in querys2:
+        a, b = query
+        uf2.merge(a, b)
+    di = collections.defaultdict(lambda :0)
+    for i in range(1,N+1):
+        di[ (uf1.root(i),uf2.root(i))] += 1
+    anss = []
+    for i in range(1,N+1):
 
+        anss.append( str(di[(uf1.root(i),uf2.root(i))]))
+    print(" ".join(anss))
 
 if __name__ == "__main__":
     do()

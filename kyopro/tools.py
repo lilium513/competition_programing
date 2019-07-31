@@ -2,6 +2,20 @@ import heapq
 def input_as_int():
     return list(map(int,input().split()))
 
+def factorize(n):
+    fct = []  # prime factor
+    b, e = 2, 0  # base, exponent
+    while b * b <= n:
+        while n % b == 0:
+            n = n // b
+            e = e + 1
+        if e > 0:
+            fct.append((b, e))
+        b, e = b + 1, 0
+    if n > 1:
+        fct.append((n, 1))
+    return fct
+
 
 def get_comb(n):  # n C n まで
 
@@ -13,6 +27,15 @@ def get_comb(n):  # n C n まで
                 com[i][j] = fac[i] // (fac[i-j] * fac[j])
 
     return com
+
+def gcd(a,b):
+    r = a % b
+    if r == 0:
+        return b
+    return gcd(b,r)
+
+def lcm(a,b):
+    return (a * b)//gcd(a,b)
 
 
 def get_fact(n):
